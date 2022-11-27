@@ -1,0 +1,17 @@
+.Bod{
+    display: flex;
+    flex-direction:column;
+    font-family: Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+    margin: 50px;
+   
+}
+
+.Carrousel{
+    align-content: center;
+    width: 500px;
+    height: 500px;
+}
+.h3{
+    text-align: center;
+}

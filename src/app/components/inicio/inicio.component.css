@@ -1,0 +1,13 @@
+.Bod{
+    display: flex;
+    flex-direction:column;
+    font-family: Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+    margin: 50px;
+   
+}
+
+.ima{
+    display: flex;
+    
+}
